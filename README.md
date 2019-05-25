@@ -12,3 +12,4 @@ The following info should be enough for you to have a taste of an oversimplified
 4. Pickle file for data: https://drive.google.com/drive/u/1/folders/17Ul1bps7ONxQ3Ktt_QlJHnNWfl1tqHSq 
 5. data shape: 10(Batch)x30(Frames per video sequence)x64x64x3(Image size)
 6. The PDF summerizes the design choice, dataset splitting, parameter choice etc. I did not really fine tune hyper parameters. 
+7. Major changes compared to the model proposed by the original paper: see PDF file
