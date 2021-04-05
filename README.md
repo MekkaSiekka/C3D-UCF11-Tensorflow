@@ -1,5 +1,5 @@
 # C3D-UCF11-Tensorflow
-Very rudimentary Tensorflow implementation of C3D on UCF11 vidoe dataset
+Very rudimentary Tensorflow implementation of C3D on UCF11 video dataset
 
 Original paper:  https://arxiv.org/abs/1412.0767  "Learning Spatiotemporal Features with 3D Convolutional Networks"
 
